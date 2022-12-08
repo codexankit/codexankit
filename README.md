@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @codexankit
 - 👀 I’m interested in AI/ML/DL/Computer Vision/NLP/Software Development
+- 🤺 Proficient in C++/Python (including OOPS)
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI/ML/DL Projects
 - 📫 How to reach me ankitkumarprem@gmail.com
